@@ -87,7 +87,7 @@ I'm Bolaji, a dynamic Data Science Engineer with a passion for data products dev
 
 ---
 
-> _“I believe data is a catalyst for growth and innovation—let’s unlock its full potential together!”_
+> _“I believe data and technology are catalysts for growth and innovation—let’s unlock its full potential together!”_
 
 ---
 
