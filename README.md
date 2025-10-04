@@ -50,7 +50,7 @@ Worked on survey design, field operations, and statistical modeling.
 | 📊 BI & Workflow | Airflow • Looker • Metabase |
 | 💻 Languages | Python • SQL • R • Bash |
 | 🗄️ Databases | PostgreSQL • MongoDB |
-| ⚙️ DevOps | GitLab • Docker |
+| ⚙️ DevOps | Git • Docker |
 
 ---
 
