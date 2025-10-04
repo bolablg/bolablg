@@ -81,7 +81,7 @@ Supporting AI talent and data ecosystems in Francophone Africa.
 ## 🎓 Education
 
 🎓 MSc in Statistics — *ICMPA UNESCO Chair, University of Abomey-Calavi*  
-> GPA: 3.72/4.0 • IEE US Evaluation: A–
+> University: Distinction • IEE US Evaluation: A- (GPA: 3.72/4.0)
 
 🎓 BSc in Statistics & Econometrics — *College of Economics & Management, University of Abomey-Calavi*
 
@@ -119,4 +119,4 @@ Supporting AI talent and data ecosystems in Francophone Africa.
 
 ---
 
-> _When you’re clear on your goals, comfortable with debugging, and curious enough to learn as you build… you can become an unstoppable builder with Data & AI._
+> _When you’re clear on your goals, comfortable with debugging, and curious enough to learn as you build… you can become an unstoppable builder with AI Agents._
