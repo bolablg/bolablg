@@ -68,10 +68,10 @@ Worked on survey design, field operations, and statistical modeling.
 
 ## 🌍 Community & Leadership
 
-### **Vice-Chair – [iSheero](https://isheero.org)**  
+### **Vice-Chair – [iSheero](https://isheero.com) (2022-Present)**  
 Supporting AI talent and data ecosystems in Francophone Africa.
 
-### **Chair & Co-Founder – Takwimu LAB (2019–2022)**  
+### **Chair & Co-Founder – [Takwimu Lab](https://github.com/Takwimu-Lab) (2019–2022)**  
 - Published African language datasets for NLP  
 - Winner of Zindi’s AI4D Dataset Challenge  
 - Research papers at AfricaNLP (EACL 2021)
