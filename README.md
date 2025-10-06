@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Bolaji**
 
-**I free data from constraints, and make them useful.**  
+**I free data from constraints, and make them useful in intelligent systems.**  
 _Data Science Engineer • Building practical systems and thoughtful teams that help impacting the life of millions_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bolaji-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/bolablg)  [![Website](https://img.shields.io/badge/Website-bolablg.com-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://bolablg.com)  [![Substack](https://img.shields.io/badge/Blog-blog.bolablg.com-orange?style=flat-square&logo=substack)](https://blog.bolablg.com)  [![GitHub](https://img.shields.io/badge/GitHub-bolablg-black?style=flat-square&logo=github)](https://github.com/bolablg)
