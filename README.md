@@ -9,7 +9,7 @@ _Data Science Engineer • Building practical systems and thoughtful teams that 
 
 ## 🧭 About Me
 
-I’m Bolaji — a statistician and data engineer by training, a builder by necessity, and a strategist by instinct.  
+I’m Bolaji — a statistician and data science engineer by training, a builder by necessity, and a strategist by instinct.  
 I lead Data & Analytics at [GOZEM](https://gozem.com), where I contribute in shaping systems that support mobility, commerce, and fintech across Sub-Saharan Africa.
 
 My academic background in statistics combined with my continuous learning in Big Data give me a strong foundation for building scalable pipelines, designing metrics that matter, and integrating advanced analytics features where they actually improve outcomes. I care about clarity, efficiency, and making data work for people — not the other way around.
