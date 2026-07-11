@@ -30,7 +30,7 @@ I also consult. With the **UN International Trade Centre**, I shaped data strate
 **Leadership & scale**
 - Built Gozem's data team from scratch: 0 to 14+ people across Sub-Saharan Africa
 - Designed and shipped the Gozem Data Hub, serving over 650 employees, field agents, and partners
-- Cut GCP spend by 43%, from $12K+ to under $6K/month, while the platform kept scaling
+- Cut GCP spend by 43%, from $10K+ to under $6K/month, while the platform kept scaling
 
 **Consulting & research**
 - Data strategy consulting for the **UN International Trade Centre** (West African startups)
