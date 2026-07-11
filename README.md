@@ -19,7 +19,7 @@ I build and lead teams that engineer end-to-end data systems and AI applications
 
 ### What I do
 
-At [Gozem](https://gozem.com), the super app for mobility, commerce, and fintech in Africa, I was the group's first data hire. Through July 2026 I owned the data function end to end (platform, products, team, governance, FinOps) and co-led the AI strategy. I scaled the team from 0 to 14+ across Sub-Saharan Africa and shipped the Gozem Data Hub, a central platform serving over 650 people (employees, field agents, and partners) with data products, AI tools, and automation, while cutting Google Cloud spend by 43% (from $12K+ to under $6K/month).
+At [Gozem](https://gozem.com), the super app for mobility, commerce, and fintech in Africa, I was the group's first data hire. Through July 2026 I owned the data function end to end (platform, products, team, governance, FinOps) and co-led the AI strategy. I scaled the team from 0 to 14+ across Sub-Saharan Africa and shipped the Gozem Data Hub, a central platform serving over 650 people (employees, field agents, and partners) with data products, AI tools, and automation, while cutting Google Cloud spend by 43% (from $10K+ to under $6K/month).
 
 I also consult. With the **UN International Trade Centre**, I shaped data strategy for West African startups.
 
@@ -71,12 +71,15 @@ DevOps           Airflow · Docker · Git · GitHub Actions · AWS EC2
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bolablg&show_icons=true&hide_border=true&bg_color=00000000&title_color=6c63ff&text_color=fafaf7&icon_color=6c63ff&ring_color=6c63ff" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=bolablg&show_icons=true&hide_border=true&bg_color=00000000&title_color=2419ff&text_color=111111&icon_color=2419ff&ring_color=2419ff" alt="Bolaji Balogoun GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bolablg&hide_border=true&background=00000000&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff&currStreakNum=fafaf7&sideNums=fafaf7&sideLabels=fafaf7&dates=9a9a96" />
+    <img height="170" src="https://streak-stats.demolab.com?user=bolablg&hide_border=true&background=00000000&ring=2419ff&fire=2419ff&currStreakLabel=2419ff&currStreakNum=111111&sideNums=111111&sideLabels=111111&dates=767672" alt="Bolaji Balogoun contribution streak" />
   </picture>
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bolablg&layout=compact&hide_border=true&bg_color=00000000&title_color=6c63ff&text_color=fafaf7" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolablg&layout=compact&hide_border=true&bg_color=00000000&title_color=2419ff&text_color=111111" alt="Bolaji Balogoun top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bolablg&hide_border=true&hide_title=true&bg_color=00000000&color=fafaf7&line=6c63ff&point=fafaf7&area=true&area_color=6c63ff" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bolablg&hide_border=true&hide_title=true&bg_color=00000000&color=111111&line=2419ff&point=111111&area=true&area_color=2419ff" alt="Bolaji Balogoun contribution graph" />
   </picture>
 </p>
 
