@@ -19,7 +19,7 @@ I build and lead teams that engineer end-to-end data systems and AI applications
 
 ### What I do
 
-At [Gozem](https://gozem.com), the super app for mobility, commerce, and fintech in Africa, I was the group's first data hire. Through July 2026 I owned the data function end to end (platform, products, team, governance, FinOps) and co-led the AI strategy. I scaled the team from 0 to 14+ across Sub-Saharan Africa and shipped the Gozem Data Hub, a central platform serving over 650 people (employees, field agents, and partners) with data products, AI tools, and automation, while cutting Google Cloud spend by 43% (from $10K+ to under $6K/month).
+At [Gozem](https://gozem.co), the super app for mobility, commerce, and fintech in Africa, I was the group's first data hire. Through July 2026 I owned the data function end to end (platform, products, team, governance, FinOps) and co-led the AI strategy. I scaled the team from 0 to 14+ across Sub-Saharan Africa and shipped the Gozem Data Hub, a central platform serving over 650 people (employees, field agents, and partners) with data products, AI tools, and automation, while cutting Google Cloud spend by 43% (from $10K+ to under $6K/month).
 
 I also consult. With the **UN International Trade Centre**, I shaped data strategy for West African startups.
 
