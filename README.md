@@ -10,10 +10,7 @@ I build governed cloud data platforms, production AI systems, and teams that tur
   <a href="https://blog.bolablg.com"><img src="https://img.shields.io/badge/Blog-blog.bolablg.com-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Blog" /></a>
   <a href="https://linkedin.com/in/bolablg"><img src="https://img.shields.io/badge/LinkedIn-in/bolablg-0A66C2?style=flat-square" alt="LinkedIn" /></a>
   <a href="mailto:hello@bolablg.com"><img src="https://img.shields.io/badge/Email-hello@bolablg.com-2419ff?style=flat-square" alt="Email Bolaji Balogoun" /></a>
-  <a href="https://x.com/bolablg"><img src="https://img.shields.io/badge/X-@bolablg-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 </p>
-
-> **Hiring, collaborating, or looking for a consultant?** Explore [my portfolio](https://www.bolablg.com), connect on [LinkedIn](https://linkedin.com/in/bolablg), or [email me](mailto:hello@bolablg.com). For an interactive overview, [ask iBola](https://chat.bolablg.com), my grounded AI assistant.
 
 ---
 
@@ -104,8 +101,8 @@ Leadership             Data & AI strategy · platform roadmaps · org design · 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bolablg&hide_border=true&background=00000000&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff&currStreakNum=fafaf7&sideNums=fafaf7&sideLabels=fafaf7&dates=9a9a96" />
-    <img height="170" src="https://streak-stats.demolab.com?user=bolablg&hide_border=true&background=00000000&ring=2419ff&fire=2419ff&currStreakLabel=2419ff&currStreakNum=111111&sideNums=111111&sideLabels=111111&dates=767672" alt="Bolaji Balogoun contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bolablg&hide_border=true&background=00000000&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff&currStreakNum=fafaf7&sideNums=fafaf7&sideLabels=fafaf7&dates=9a9a96&v=20260815" />
+    <img height="170" src="https://streak-stats.demolab.com?user=bolablg&hide_border=true&background=00000000&ring=2419ff&fire=2419ff&currStreakLabel=2419ff&currStreakNum=111111&sideNums=111111&sideLabels=111111&dates=767672&v=20260815" alt="Bolaji Balogoun contribution streak" />
   </picture>
 </p>
 
@@ -117,10 +114,6 @@ Leadership             Data & AI strategy · platform roadmaps · org design · 
 </p>
 
 ---
-
-<p align="center">
-  <strong>Open to Senior/Staff Data & AI engineering, data platform and analytics engineering leadership, and consulting engagements.</strong>
-</p>
 
 <p align="center">
   <a href="https://www.bolablg.com">bolablg.com</a> · <a href="https://chat.bolablg.com">Ask iBola</a> · <a href="https://blog.bolablg.com">Blog</a> · <a href="https://linkedin.com/in/bolablg">LinkedIn</a> · <a href="mailto:hello@bolablg.com">hello@bolablg.com</a>
