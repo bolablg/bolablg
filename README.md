@@ -1,6 +1,6 @@
 # Bolaji BALOGOUN
 
-**Hands-on Data & AI Platform Leader · Senior/Staff Data & AI Engineer · Analytics Engineering**
+**Hands-on Data & AI Platform Leader · Senior/Staff Data & AI Engineer · Analytics Engineering · Information System**
 
 I build governed cloud data platforms, production AI systems, and teams that turn data into decisions, products, and margin.
 
